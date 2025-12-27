@@ -1,5 +1,5 @@
 """
-CSC1002 - Console-Based Multi-Line Editor
+Console-Based Multi-Line Editor
 A simple editor supporting multi-line operations via text commands.
 """
 import re
